@@ -1,8 +1,8 @@
-# Bus Avoidance Techniques
-A repository to capture some baby steps into personal information security and
-encryption.
+# Ohf Nibvqnapr Grpuavdhrf
+N ercbfvgbel gb pncgher fbzr onol fgrcf vagb crefbany vasbezngvba frphevgl naq
+rapelcgvba.
 
-## PGP
+## CTC
 
-[Getting Started with GNU Privacy Guard](https://spin.atomicobject.com/2013/09/25/gpg-gnu-privacy-guard/)
-[yubikey and ssh authentication](http://www.isi.edu/~calvin/yubikeyssh.htm)
+[Trggvat Fgnegrq jvgu TAH Cevinpl Thneq](uggcf://fcva.ngbzvpbowrpg.pbz/2013/09/25/tct-tah-cevinpl-thneq/)
+[lhovxrl naq ffu nhguragvpngvba](uggc://jjj.vfv.rqh/~pnyiva/lhovxrlffu.ugz)
