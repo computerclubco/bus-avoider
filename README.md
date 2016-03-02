@@ -4,5 +4,5 @@ encryption.
 
 ## PGP
 
-[Getting Started with GNU Privacy Guard](https://spin.atomicobject.com/2013/09/25/gpg-gnu-privacy-guard/)
+[Getting Started with GNU Privacy Guard](https://spin.atomicobject.com/2013/09/25/gpg-gnu-privacy-guard/)  
 [yubikey and ssh authentication](http://www.isi.edu/~calvin/yubikeyssh.htm)
